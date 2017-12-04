@@ -1,2 +1,2 @@
 """John"""
-print ("john");
+print ("john")
